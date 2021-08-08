@@ -1,7 +1,7 @@
 # Diabetes-Prediction_Mining-and-Machine-Learning
 
-### The On-Set of Diabetes Prediction using PIMA INDIANs Dataset
-There has been series of predictions for the PIMA INDIAN Diabetes dataset, but none has been able to create a process that generally works for predicting diabetes in the real sense.
+### The On-Set of Diabetes Prediction using Dataset
+There has been series of predictions for the Diabetes dataset, but none has been able to create a process that generally works for predicting diabetes in the real sense.
 
 I present an approach that is based on the following medical facts about diabetes diagnosis.
 
@@ -25,13 +25,13 @@ Type 2 diabetes The amount of insulin in your blood is higher than what's consid
 
 For the above reasons, only the glucose and insulin will be used to predict diabtes and type of diabetes.
 
-This approach so far achieves the best predition accuracy on PIMA Indian Diabetes Dataset, it is provided below. If a new instance is diabetic, can classify the type of diabetes the new instance have.
+This approach so far achieves the best predition accuracy on Diabetes Dataset, it is provided below. If a new instance is diabetic, can classify the type of diabetes the new instance have.
 ##### Train acc:  0.9508196721311475
 ##### Test acc:  0.9607843137254902
 
 
 ## To run the codes, follow the below given sequence of instruction:
-#### (1) Download the PIMA INDIAN Diabetes Dataset (https://www.kaggle.com/uciml/pima-indians-diabetes-database) or load provided data
+#### (1) Download the Diabetes Dataset (https://www.kaggle.com/uciml/pima-indians-diabetes-database) or load provided data
 #### (2) Data Analysis, Visualization and Interpretation
 #### (3) Create Regression Data
 #### (4) Predict Missing Values Using Linear Regression
